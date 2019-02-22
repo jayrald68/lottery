@@ -1,5 +1,5 @@
 
-<h1 align="center" style="background:#990000 color:white " >PROCESS DIAGRAM OF LOTTERY APPLICATION</h1>
+<h1 align="center"  >Lottery Design Pattern For Ethereum and Hyperledger /h1>
 
 <center><h3>Simple Lottery</h3></center>
 <img src="https://i.imgur.com/ljrrP57.png" width="100%" height="100%" border="5">
